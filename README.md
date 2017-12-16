@@ -1,4 +1,3 @@
 # cidstudyforum
-study forum for cid update by ruiyug
-
-study forum for cid update by zhaojiong 
+study forum for cid
+everyone who has any good idea please share it vi wiki's new page.
