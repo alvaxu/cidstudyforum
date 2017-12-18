@@ -1,0 +1,1 @@
+系统架构![test](https://github.com/alvaxu/cidstudyforum/blob/master/%E6%9E%B6%E6%9E%84%E5%B8%88%E6%8A%80%E8%83%BD%E5%9B%BE%E8%B0%B1.jpg)
